@@ -26,6 +26,7 @@ Colorado has three voting methods for the election process in their congressiona
 
 ### Python File Output
 These election analysis results are also written out to a text file and the terminal as shown below.
+
 ![alt text](https://github.com/jj2773/Election_Analysis/blob/main/analysis/python_analysis_output.PNG)
 
 ## Election Audit Summary
