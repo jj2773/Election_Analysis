@@ -24,5 +24,9 @@ Colorado has three voting methods for the election process in their congressiona
   - Winning Percentage: ```73.8%```
   - Winning Vote Count: ```272,892```
 
+### Python File Output
+These election analysis results are also written out to a text file and the terminal as shown below.
+![alt text](https://github.com/jj2773/Election_Analysis/blob/main/analysis/python_analysis_output.PNG)
+
 ## Election Audit Summary
 In summary, business proposal on how this python code could be used for any election.  Give at least two examples of how this script can be modified for other elections.
