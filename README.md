@@ -30,4 +30,7 @@ These election analysis results are also written out to a text file and the term
 ![alt text](https://github.com/jj2773/Election_Analysis/blob/main/analysis/python_analysis_output.PNG)
 
 ## Election Audit Summary
-In summary, business proposal on how this python code could be used for any election.  Give at least two examples of how this script can be modified for other elections.
+In summary, this python code could be used for any election with some adjustements.  For example, if it was desired to have an election analysis where the plurality rule applies (e.g. Senatorial elections).  Then the below code block if statement could be changed to just check the vote total counts and not require the percentage of votes.  It should be noted that the code could also be changed to allow the user to input the election type so that the correct if statement code block is selected giving more flexibility to various election analysis.  
+
+
+![alt text](https://github.com/jj2773/Election_Analysis/blob/main/analysis/ifstatement_counts_and_percentage.PNG)
